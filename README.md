@@ -26,7 +26,9 @@ The script comes with a set of template headlines, but you can also add/edit the
  
 For example - 
 
-"[placeholder]: Expectations vs. Reality",
-"Will [placeholder] Ever Rule the World?",
-"The Next Big Thing in [placeholder]",
-"[placeholder] Explained in Fewer than 140 Characters",
+```
+- "[placeholder]: Expectations vs. Reality",
+- "Will [placeholder] Ever Rule the World?",
+- "The Next Big Thing in [placeholder]",
+- "[placeholder] Explained in Fewer than 140 Characters",
+```
