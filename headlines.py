@@ -1,4 +1,4 @@
-ideas = [
+text = [
 "[placeholder]: Expectations vs. Reality",
 "Will [placeholder] Ever Rule the World?",
 "The Next Big Thing in [placeholder]",
